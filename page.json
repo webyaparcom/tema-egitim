@@ -1,0 +1,215 @@
+{
+  "data": [
+    {
+      "id": "4v7ruadnoz",
+      "name": {
+        "tr": "Kademeler",
+        "en": "Levels",
+        "ar": "المراحل"
+      },
+      "description": {
+        "tr": "Kademelere göre program, sınıf yapısı ve rehberlik desteği.",
+        "en": "Programme, class structure and guidance support by level.",
+        "ar": "البرنامج وبنية الصفوف والدعم الإرشادي بحسب المرحلة."
+      },
+      "path": "kademeler",
+      "icon": "school",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "ltiz9j",
+          "y59rmq",
+          "a4l3d5"
+        ],
+        "footer": []
+      },
+      "index": 0
+    },
+    {
+      "id": "d1fm2f3bdr",
+      "name": {
+        "tr": "Önkayıt",
+        "en": "Pre-enrolment",
+        "ar": "التسجيل المسبق"
+      },
+      "description": {
+        "tr": "Kademeyi ve uygun günü seçin; talebiniz bu demo sitede yalnızca tarayıcınızda oluşturulur. Öğrenci bilgisi istenmez.",
+        "en": "Choose a level and a convenient day; on this demo site your request is created only in your browser. No student details are requested.",
+        "ar": "اختر المرحلة واليوم المناسب؛ يُنشأ طلبك في متصفحك فقط. لا تُطلب بيانات الطالب."
+      },
+      "path": "on-kayit",
+      "icon": "how_to_reg",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "p9wto4"
+        ],
+        "footer": []
+      },
+      "index": 1
+    },
+    {
+      "id": "f121pu8f1m",
+      "name": {
+        "tr": "Akademik Takvim",
+        "en": "Academic Calendar",
+        "ar": "التقويم الأكاديمي"
+      },
+      "description": {
+        "tr": "Eğitim-öğretim yılının örnek takvimi.",
+        "en": "A sample calendar of the school year.",
+        "ar": "تقويم نموذجي للعام الدراسي."
+      },
+      "path": "akademik-takvim",
+      "icon": "calendar_month",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "lfszns"
+        ],
+        "footer": []
+      },
+      "index": 2
+    },
+    {
+      "id": "4euwkrbfur",
+      "name": {
+        "tr": "Kurum Bilgileri",
+        "en": "Institution Details",
+        "ar": "بيانات المؤسسة"
+      },
+      "description": {
+        "tr": "MEB kurum kodu ve açma izni bilgisi.",
+        "en": "Ministry institution code and opening-permit information.",
+        "ar": "رمز المؤسسة وبيانات ترخيص الافتتاح."
+      },
+      "path": "kurum-bilgileri",
+      "icon": "badge",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "zf2dp9"
+        ],
+        "footer": []
+      },
+      "index": 3
+    },
+    {
+      "id": "saasf6bb08",
+      "name": {
+        "tr": "Sıkça Sorulan Sorular",
+        "en": "FAQ",
+        "ar": "الأسئلة الشائعة"
+      },
+      "description": {
+        "tr": "Sıkça sorulan sorular ve yanıtları.",
+        "en": "Frequently asked questions and answers.",
+        "ar": "الأسئلة الشائعة وإجاباتها."
+      },
+      "path": "sss",
+      "icon": "help",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "yn3u6n",
+          "a4l3d5"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "5bib8fmzm1",
+      "name": {
+        "tr": "Galeri",
+        "en": "Gallery",
+        "ar": "المعرض"
+      },
+      "description": {
+        "tr": "Sınıf, kütüphane, laboratuvar ve bahçeden görüntüler; çocuk görseli yoktur.",
+        "en": "Views of classrooms, library, laboratory and garden; no images of children.",
+        "ar": "صور من الصفوف والمكتبة والمختبر والحديقة؛ دون صور أطفال."
+      },
+      "path": "galeri",
+      "icon": "photo_library",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "jiscup"
+        ],
+        "footer": []
+      },
+      "index": 5
+    },
+    {
+      "name": {
+        "tr": "Hakkımızda",
+        "en": "About",
+        "ar": "من نحن"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "url": "",
+      "index": 6,
+      "icon": "info",
+      "desing": {
+        "header": [],
+        "body": [
+          "otsu0q",
+          "nu8ucb",
+          "j7d4wr"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Bilgi Fidanı Okulları, her öğrencinin hızına saygı duyan ve veliyle şeffaf iletişimi esas alan kurgusal bir demo okuldur. Bu sitedeki kurum kodu, ad ve bilgiler kurgusaldır; çocuk fotoğrafı kullanılmamıştır.",
+        "en": "Bilgi Fidani Schools is a fictional demo school that respects each student’s pace and values open communication with parents. The institution code, names and details on this site are fictional; no photographs of children are used.",
+        "ar": "مدارس بيلغي فيداني مدرسة تجريبية افتراضية تحترم وتيرة كل طالب وتعتمد التواصل الشفاف مع أولياء الأمور. رمز المؤسسة والأسماء والبيانات في هذا الموقع افتراضية، ولم تُستخدم صور أطفال."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim",
+        "en": "Contact",
+        "ar": "اتصل بنا"
+      },
+      "status": "play",
+      "id": "iletisim",
+      "path": "iletisim",
+      "category": "",
+      "url": "",
+      "index": 7,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "k9ct01",
+          "k9mp01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Adres, telefon, e-posta ve çalışma saatleri.",
+        "en": "Address, phone, e-mail and opening hours.",
+        "ar": "العنوان والهاتف والبريد الإلكتروني وساعات العمل."
+      }
+    }
+  ],
+  "desc": []
+}

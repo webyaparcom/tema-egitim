@@ -1,0 +1,54 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Bilgi Fidanı Özel Okulları: anaokulundan liseye kademeler, önkayıt görüşmesi ve akademik takvim. (Demo site)",
+    "en": "Bilgi Fidani Private Schools: levels from kindergarten to high school, pre-enrolment meetings and the academic calendar. (Demo site)",
+    "ar": "مدارس بيلغي فيداني الخاصة: مراحل من الروضة إلى الثانوية ولقاء التسجيل المسبق والتقويم الأكاديمي. (موقع تجريبي)"
+  },
+  "keyword": {
+    "tr": "özel okul, anaokulu, ilkokul, lise",
+    "en": "private school, kindergarten, primary, high school",
+    "ar": "مدرسة خاصة، روضة، ابتدائية، ثانوية"
+  },
+  "category": "Kurumsal",
+  "name": "Bilgi Fidanı Okulları",
+  "domain": "egitim.webyapar.com",
+  "langs": {
+    "tr": true,
+    "en": true,
+    "ar": true,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.png",
+  "multi": false,
+  "publishMode": "static",
+  "font": {
+    "body": "nunito-sans",
+    "heading": "nunito",
+    "ar": {
+      "body": "ibm-plex-sans-arabic",
+      "heading": "noto-kufi-arabic"
+    }
+  },
+  "colorScheme": "auto",
+  "theme_color": "#1D4E89",
+  "seo": {
+    "noindex": true
+  },
+  "cssTokens": {
+    "--mx-radius-sm": "10px",
+    "--mx-radius-md": "16px",
+    "--mx-radius-lg": "22px",
+    "--mx-radius-xl": "30px"
+  },
+  "icon": "icon.png"
+}
