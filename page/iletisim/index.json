@@ -9,7 +9,7 @@
   "id": "iletisim",
   "url": "",
   "path": "iletisim",
-  "index": 7,
+  "index": 6,
   "icon": "call",
   "desing": {
     "header": [],
@@ -41,6 +41,6 @@
     "en": "contact, address, phone",
     "ar": "اتصل بنا، عنوان، هاتف"
   },
-  "update": "2026-10-30T22:03:21.393Z",
+  "update": "2026-11-06T00:01:15.063Z",
   "date": "2026-10-30"
 }

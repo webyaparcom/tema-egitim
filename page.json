@@ -78,31 +78,6 @@
       "index": 2
     },
     {
-      "id": "4euwkrbfur",
-      "name": {
-        "tr": "Kurum Bilgileri",
-        "en": "Institution Details",
-        "ar": "بيانات المؤسسة"
-      },
-      "description": {
-        "tr": "MEB kurum kodu ve açma izni bilgisi.",
-        "en": "Ministry institution code and opening-permit information.",
-        "ar": "رمز المؤسسة وبيانات ترخيص الافتتاح."
-      },
-      "path": "kurum-bilgileri",
-      "icon": "badge",
-      "category": "",
-      "status": "play",
-      "desing": {
-        "header": [],
-        "body": [
-          "zf2dp9"
-        ],
-        "footer": []
-      },
-      "index": 3
-    },
-    {
       "id": "saasf6bb08",
       "name": {
         "tr": "Sıkça Sorulan Sorular",
@@ -126,7 +101,7 @@
         ],
         "footer": []
       },
-      "index": 4
+      "index": 3
     },
     {
       "id": "5bib8fmzm1",
@@ -151,7 +126,7 @@
         ],
         "footer": []
       },
-      "index": 5
+      "index": 4
     },
     {
       "name": {
@@ -164,7 +139,7 @@
       "path": "hakkimizda",
       "category": "",
       "url": "",
-      "index": 6,
+      "index": 5,
       "icon": "info",
       "desing": {
         "header": [],
@@ -193,7 +168,7 @@
       "path": "iletisim",
       "category": "",
       "url": "",
-      "index": 7,
+      "index": 6,
       "icon": "call",
       "desing": {
         "header": [],

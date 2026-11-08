@@ -26,7 +26,7 @@
     ],
     "footer": []
   },
-  "index": 3,
+  "index": 7,
   "url": "",
   "text": {
     "tr": "<h2>Kurum izin bilgileri</h2><p>Bilgi Fidanı Özel Okulları, bu demo sitede Millî Eğitim Bakanlığına bağlı özel okul olarak kurgulanmıştır. Kurum kodu ve açma izni numarası örnektir (DEMO) ve gerçek bir kuruma ait değildir.</p><p>Kurum adı, kodu ve izin bilgileri her zaman Bakanlık kayıtlarıyla birebir aynı yazılır; kapatılmış kurum türü adları kullanılmaz.</p><p><em>Demo sitedir; içerik kurgusaldır.</em></p>",
@@ -39,5 +39,5 @@
     "ar": "بيانات المؤسسة"
   },
   "date": "2026-10-30T22:00:22.857Z",
-  "update": "2026-10-30T22:03:21.372Z"
+  "update": "2026-11-06T00:01:15.067Z"
 }
