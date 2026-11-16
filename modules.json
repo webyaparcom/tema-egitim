@@ -57,7 +57,7 @@
         "menubg": "",
         "menutext": "#fff",
         "menuhoverbg": "rgba(255,255,255,.18)",
-        "max": "1200px",
+        "max": "1360px",
         "bosluk": "0px",
         "yuvarlak": "18px",
         "ust": "",
@@ -79,7 +79,8 @@
         "logoH": "44px",
         "sekmeBg": "var(--mx-site-bg, #ffffff)",
         "sekmeText": "var(--mx-site-text, #111318)",
-        "bgcolor": "var(--mx-site-primary, #2563eb)"
+        "bgcolor": "var(--mx-site-primary, #2563eb)",
+        "logoimg": "logo-ust.png"
       },
       "version": "1.0.0",
       "icon": "tab",
